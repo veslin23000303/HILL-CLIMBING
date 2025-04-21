@@ -98,8 +98,8 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
 
 <h2>OUTPUT :</h2>
-<image src="image-1.png"></image>
-<image src="image-2.png"></image>
+![Screenshot 2025-04-21 140545](https://github.com/user-attachments/assets/27aa5da5-58c7-4a87-83c7-471d1f17a79b)
+
 <h2>RESULT :</h2>
 
 We have sucessfully implemented Simple Hill Climbing Algorithm and generated a String by Mutating a Single Character at each iteration optimizing the string through fitness evaluations until the target string was reached.
